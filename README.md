@@ -1,6 +1,6 @@
 # H4XOR-Reader 
 H4XOR News site in the form of app
 
-![Simulator Screen Shot - iPhone 12 - 2022-07-05 at 21 04 27](https://user-images.githubusercontent.com/71122864/177371273-54103029-368b-4023-a878-db10f67d2249.png)
+<img width="556" alt="App view 1" src="https://user-images.githubusercontent.com/71122864/177375352-aa152daf-5189-4e4f-9884-bab286729211.png">
+<img width="483" alt="App view 2" src="https://user-images.githubusercontent.com/71122864/177375393-d492f057-4863-4829-9ad0-564feb16b9aa.png">
 
-![Simulator Screen Shot - iPhone 12 - 2022-07-05 at 21 05 47](https://user-images.githubusercontent.com/71122864/177371330-3da84c9c-272f-4074-832e-bdc1d2087b21.png)
