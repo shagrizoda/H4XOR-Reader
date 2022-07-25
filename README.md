@@ -1,8 +1,9 @@
 # H4XOR-Reader 
 H4XOR News site in the form of app
--On the left-hand side: number of hits. 
--After clicking the article you can get the full story to read. 
--Refreshes automatically.
+
+-On the left-hand side: number of hits 
+-After clicking the article you can get the full story to read
+-Refreshes automatically
 
 Made with **Webkit**
 
