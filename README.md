@@ -5,7 +5,7 @@ H4XOR News site in the form of app
 
 -After clicking the article you can get the full story to read
 
--Refreshes automatically
+-Updates news automatically
 
 Made with **Webkit**
 
